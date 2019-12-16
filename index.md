@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Abou
 
-You can use the [editor on GitHub](https://github.com/hamdikahloun/hamdikahloun.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hello! I am Hamdi Kahloun. Developer, DevOps and Infrastructure Manager.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+13 years of experience in various areas related to IT: computer systems & networks, Java Developer | Android Developer | Native React Developer, Infra, Security, DevOps...
 
 ### Markdown
 
